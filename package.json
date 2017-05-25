@@ -1,0 +1,22 @@
+{
+  "name": "casper-crawler",
+  "version": "1.0.0",
+  "description": "> 开始学习 casper 并使用 casper 实现一个爬虫",
+  "main": "learn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captain100/casper-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/captain100/casper-crawler/issues"
+  },
+  "homepage": "https://github.com/captain100/casper-crawler#readme",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  }
+}
