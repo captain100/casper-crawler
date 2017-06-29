@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/captain100/casper-crawler#readme",
   "dependencies": {
-    "casperjs": "^1.1.4"
+    "casperjs": "^1.1.4",
+    "phantom": "^4.0.3",
+    "underscore": "^1.8.3"
   }
 }
